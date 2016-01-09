@@ -10,7 +10,7 @@
 #    {Placeholder} = require 'placeholderClass'...
 #
 # Thanks to Paul Straw for creating 'placem.at'!
-# Special thanks to Jordon Dobson.
+# Special thanks to Jordan Dobson.
 #
 #
 # Init with:
