@@ -32,7 +32,7 @@ placeholderA = new Placeholder
 # overlayColor    | String  | „ACACAC“   | accepts 3/6/8-digit hex-colors
 # blendMode       | String  | „multiply“ | Valid options: CSS blend-modes
 
-# Methods | Type | Comments
+# Methods | Type   | Comments
 # —————————————————————————————————————————————————————
 # image() | String | returns URL of the dynamic placeholder Image.
 
