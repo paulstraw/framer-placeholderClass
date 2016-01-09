@@ -1,13 +1,17 @@
 ## framer-placeholderClass
 ‚nonlinearModulate’ fetches dynamic placeholder images from ‚placem.at‘.
 
+
 Thanks to Paul Straw for creating ‚placem.at‘!
+
 Special thanks to Jordon Dobson.
 
 
 #### Demo
 
 *Live Demo*: https://tr.im/placeholder
+
+![Image of placeholderClass](http://i.imgur.com/h4CTOLg.png)
 
 
 #### Getting started
