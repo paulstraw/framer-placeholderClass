@@ -93,7 +93,7 @@ class exports.Placeholder
 			label = ""
 
 
-		url = "https://placem.at/" + type + "?w=" + width + "&h=" + height + "&random=" + random + label + "&txtclr=" + labelColor + "&overlay_color=" + overlayColor + "&overlay_blend=" + blendMode
+		url = "https://placem.at/#{type}?w=#{width}&h=#{height}&random=#{random + label}&txtclr=#{labelColor}&overlay_color=#{overlayColor}&overlay_blend=#{blendMode}"
 
 
 		mostRecentLayer?.image = url unless autoApply is false
